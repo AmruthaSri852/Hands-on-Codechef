@@ -7,4 +7,4 @@ from Object Oriented Programming with C++ - by BalaguruSamy
      to have hands on cpp within 15 days (almost for 2 weeks)
 ### If you have any better or easier ways of code:
      fork my repo and correct the code and pull request!
-     Open for suggestions and exploring more of the subject..
+     Open for suggestions and exploring more of the subject.. 
