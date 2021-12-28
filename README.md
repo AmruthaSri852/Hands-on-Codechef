@@ -1,4 +1,4 @@
-# Hands-on-Cpp
+# Hands-on-Cpp 
 from Object Oriented Programming with C++ - by BalaguruSamy 
 ### In this repo:
      I am going to represent my learning towards c++ 
@@ -8,3 +8,4 @@ from Object Oriented Programming with C++ - by BalaguruSamy
 ### If you have any better or easier ways of code:
      fork my repo and correct the code and pull request!
      Open for suggestions and exploring more of the subject.. 
+# Changed the repo as Hands-on-codechef 
